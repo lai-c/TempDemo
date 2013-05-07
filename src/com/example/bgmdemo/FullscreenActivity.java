@@ -23,6 +23,7 @@ public class FullscreenActivity extends Activity {
      */
     private static final int a = 1;
     private static final int c = 3;
+    private static final int b = 2;
     private static final boolean AUTO_HIDE = true;
 
     /**

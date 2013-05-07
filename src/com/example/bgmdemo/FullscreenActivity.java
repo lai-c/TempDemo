@@ -21,6 +21,7 @@ public class FullscreenActivity extends Activity {
      * Whether or not the system UI should be auto-hidden after
      * {@link #AUTO_HIDE_DELAY_MILLIS} milliseconds.
      */
+    private static final int b = 2;
     private static final boolean AUTO_HIDE = true;
 
     /**
